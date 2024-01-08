@@ -36,7 +36,7 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/weather-bot-telegram.git
+   https://github.com/Abhay7apk/AST_Telegram_Bot_Code.git
    ```
 2. Run the Admin Dashboard
     ```
@@ -68,11 +68,3 @@ Before running the project, make sure you have the following installed:
     - Commit your changes: git commit -m 'Add new feature'.
     - Push to your branch: git push origin feature/your-feature.
     - Create a pull request.
-    
-## Licence
-
-- This is a open source project, users can contribute according to open source guidelines.
-
-
-
-![Bot](https://github.com/sparsh02/NestJS-Weather-BOT/assets/54232718/8af0882d-cec0-4b74-ad23-2c6f0782c339)
